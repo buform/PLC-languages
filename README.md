@@ -1,34 +1,34 @@
-## PLC-languages
+# PLC-languages
 języki programowania sterowników PLC
 LAD, SCL, FBD, GRAFCET, IL, SFC
 
-# LAD
+## LAD
 * podstawowe funkcje
 * dwa proste układy
 * trzy układy sekwencyjne
 
-# SCL
+## SCL
 * podstawowe funkcje
 * dwa proste układy
 * trzy układy sekwencyjne
 
-# FBD
+## FBD
 * podstawowe funkcje
 * dwa proste układy
 * trzy układy sekwencyjne
 
-# GAFCET
+## GAFCET
 * podstawowe funkcje
 * dwa proste układy
 * jeden układ sekwencyjny
 
-# IL
+## IL
 * podstawowe funkcje
 * dwa proste układy
 * jeden układ sekwencyjny
 * realizacja trudniejszych zagadnień
 
-# SFC
+## SFC
 * podstawowe funkcje
 * dwa proste układy
 * jeden układ sekwencyjny
