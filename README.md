@@ -23,17 +23,17 @@ function block diagram - schemat bloków funkcyjnych
 instruction list - lista instrukcji
 * podstawowe funkcje
 * dwa proste układy
-* jeden układ sekwencyjny
+* trzy układy sekwencyjne
 * realizacja trudniejszych zagadnień
 
 ## SFC
 sequential function chart - sekwencyjny wykres funkcjonalny (język sekwencyjny)
 * podstawowe funkcje
 * dwa proste układy
-* jeden układ sekwencyjny
+* trzy układy sekwencyjne
 
 ## GRAFCET
 język graficzny (algorytm)
 * podstawowe funkcje
 * dwa proste układy
-* jeden układ sekwencyjny
+* trzy układy sekwencyjne
