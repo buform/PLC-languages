@@ -1,6 +1,13 @@
 # PLC-languages
 języki programowania sterowników PLC
-LAD, SCL, FBD, GRAFCET, IL, SFC
+* LAD
+* SCL
+* FBD
+* GRAFCET
+* IL
+* SFC
+
+# LISTA
 
 ## LAD
 * podstawowe funkcje
