@@ -16,7 +16,7 @@ języki programowania sterowników PLC
 * dwa proste układy
 * trzy układy sekwencyjne
 
-## GAFCET
+## GRAFCET
 * podstawowe funkcje
 * dwa proste układy
 * jeden układ sekwencyjny
