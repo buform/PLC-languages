@@ -7,8 +7,9 @@ schemat drabinkowy (język drabinkowy)
 * dwa proste układy
 * trzy układy sekwencyjne
 
-## ST - STRUCTURED LIST -> SCL - STRUCTURED CONTROL LANGUAGE
-tekst strukturalny -> strukturalny język sterowania
+## ST - STRUCTURED LIST (strukturalny język sterowania)
+### SCL - STRUCTURED CONTROL LANGUAGE
+tekst strukturalny
 * podstawowe funkcje
 * dwa proste układy
 * trzy układy sekwencyjne
