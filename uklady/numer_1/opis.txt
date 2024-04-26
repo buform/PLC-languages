@@ -15,3 +15,4 @@ B2 - czujnik indukcyjny
 B3 - czujnik indukcyjny
 B4 - czujnik indukcyjny
 H1 - lampka sygnalizacyjna
+PLC - sterownik PLC
