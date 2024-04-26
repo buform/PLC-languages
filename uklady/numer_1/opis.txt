@@ -3,6 +3,8 @@ UKLAD NUMER 1
  - schemat ukladu sterowania elektrycznego
 
 spis elementow
+P1 - zrodlo sprezonego powietrza
+Z1 - zespol przygotowania sprezonego powietrza
 S1 - przycisk monostabilny NO
 A1 - silownik dwustronnego dzialania
 A2 - silownik dwustronnego dzialania
