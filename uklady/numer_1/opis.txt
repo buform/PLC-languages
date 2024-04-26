@@ -2,7 +2,7 @@ UKLAD NUMER 1
  - schemat ukladu pneumatycznego
  - schemat ukladu sterowania elektrycznego
 
-spis elementów
+spis elementow
 S1 - przycisk monostabilny NO
 A1 - silownik dwustronnego dzialania
 A2 - silownik dwustronnego dzialania
