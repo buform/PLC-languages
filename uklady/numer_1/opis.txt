@@ -1,6 +1,6 @@
 UKLAD NUMER 1
  - schemat ukladu pneumatycznego
- - schemat sterowania elektrycznego
+ - schemat ukladu sterowania elektrycznego
 
 spis elementów
 S1 - przycisk monostabilny NO
