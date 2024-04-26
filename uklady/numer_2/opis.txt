@@ -1,0 +1,16 @@
+UKLAD NUMER 2
+ - schemat ukladu pneumatycznego
+ - schemat ukladu sterowania elektrycznego
+
+spis elementow
+A1 - silownik dwustronnego dzialania
+A2 - silownik jednostronnego dzialania
+V1 - elektrozawor 5/2 bistabilny
+V2 - elektrozawor 3/2 monostabilny
+Y1 - cewka elektrozaworu
+Y2 - cewka elektrozaworu
+Y3 - cewka elektrozaworu
+B1 - czujnik indukcyjny
+B2 - czujnik indukcyjny
+B3 - czujnik indukcyjny
+B4 - czujnik indukcyjny
