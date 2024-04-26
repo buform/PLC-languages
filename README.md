@@ -1,5 +1,5 @@
 # PLC-languages
-Języki programowania sterowników PLC na podstawie normy IEC 61131-3. Dodatkowo znajduje się GRAFCET. Natomiast w przypadku jezyka ST jest przedstawiony wariant SFC (dla sterowników firmy Siemens).
+Języki programowania sterowników PLC na podstawie normy IEC 61131-3. Dodatkowo znajduje się GRAFCET. Natomiast w przypadku języka ST jest przedstawiony wariant SFC (dla sterowników firmy Siemens).
 
 ## LD
 ladder diagram - schemat drabinkowy (język drabinkowy)
