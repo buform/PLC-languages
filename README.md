@@ -37,10 +37,3 @@ język graficzny (algorytm)
 * podstawowe funkcje
 * dwa proste układy
 * trzy układy sekwencyjne
-
-## TO DO
-* cały LD
-* cały SCL
-* cały SFC
-* cały GRAFCET
-* prawie cały IL (wykonane: układ nr 1)
