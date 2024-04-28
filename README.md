@@ -3,9 +3,9 @@ Języki programowania sterowników PLC na podstawie normy IEC 61131-3. Dodatkowo
 
 ## LD
 ladder diagram - schemat drabinkowy (język drabinkowy)
-* podstawowe funkcje
-* dwa proste układy
-* trzy układy sekwencyjne
+* podstawowe funkcje i obiekty
+* kilka przykładów
+* cztery układy sekwencyjne
 
 ## SCL
 structured control language - strukturalny język sterowania
