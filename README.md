@@ -9,31 +9,31 @@ ladder diagram - schemat drabinkowy (język drabinkowy)
 
 ## SCL
 structured control language - strukturalny język sterowania
-* podstawowe funkcje
-* dwa proste układy
-* trzy układy sekwencyjne
+* podstawowe funkcje i obiekty
+* kilka przykładów
+* cztery układy sekwencyjne
 
 ## FBD
 function block diagram - schemat bloków funkcyjnych
-* podstawowe funkcje
-* dwa proste układy
-* trzy układy sekwencyjne
+* podstawowe funkcje i obiekty
+* kilka przykładów
+* cztery układy sekwencyjne
 
 ## IL
 instruction list - lista instrukcji
-* podstawowe funkcje
-* dwa proste układy
-* trzy układy sekwencyjne
+* podstawowe funkcje i obiekty
+* kilka przykładów
+* cztery układy sekwencyjne
 * realizacja trudniejszych zagadnień
 
 ## SFC
 sequential function chart - sekwencyjny wykres funkcjonalny (język sekwencyjny)
-* podstawowe funkcje
-* dwa proste układy
-* trzy układy sekwencyjne
+* podstawowe funkcje i obiekty
+* kilka przykładów
+* cztery układy sekwencyjne
 
 ## GRAFCET
 język graficzny (algorytm)
-* podstawowe funkcje
-* dwa proste układy
-* trzy układy sekwencyjne
+* podstawowe funkcje i obiekty
+* kilka przykładów
+* cztery układy sekwencyjne
