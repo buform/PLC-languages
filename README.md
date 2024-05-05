@@ -13,6 +13,10 @@ ladder diagram - schemat drabinkowy (język drabinkowy)
 
 ## SCL
 structured control language - strukturalny język sterowania
+* podstawowe funkcje
+* przykłady
+* czasówki
+* liczniki
 
 ## FBD
 function block diagram - schemat bloków funkcyjnych
