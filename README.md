@@ -10,7 +10,7 @@ ladder diagram - schemat drabinkowy (język drabinkowy)
 * liczniki
 * move & jump
 * podstawowe działania matematyczne
-* jeden układ sekwencyjny
+* jeden układ sekwencyjny (układ 1.)
 
 ## SCL
 structured control language - strukturalny język sterowania
