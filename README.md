@@ -24,6 +24,10 @@ function block diagram - schemat bloków funkcyjnych
 
 ## IL
 instruction list - lista instrukcji
+* podstawowe funkcje
+* przykłady
+* liczniki
+* czasówki
 
 ## SFC
 sequential function chart - sekwencyjny wykres funkcjonalny (język sekwencyjny)
