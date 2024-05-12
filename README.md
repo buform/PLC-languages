@@ -37,3 +37,4 @@ język graficzny (algorytm)
 * podstawowe funkcje
 * przykłady
 * czasówki
+* RS & SR
