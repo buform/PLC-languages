@@ -36,5 +36,4 @@ sequential function chart - sekwencyjny wykres funkcjonalny (język sekwencyjny)
 język graficzny (algorytm)
 * podstawowe funkcje
 * przykłady
-* czasówki
-* RS & SR
+* elementy sterowań
