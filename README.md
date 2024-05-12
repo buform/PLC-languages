@@ -34,3 +34,6 @@ sequential function chart - sekwencyjny wykres funkcjonalny (język sekwencyjny)
 
 ## GRAFCET
 język graficzny (algorytm)
+* podstawowe funkcje
+* przykłady
+* czasówki
