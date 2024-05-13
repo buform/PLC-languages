@@ -9,6 +9,7 @@ ladder diagram - schemat drabinkowy (język drabinkowy)
 * czasówki
 * liczniki
 * move & jump
+* komparatory
 * podstawowe działania matematyczne
 * jeden układ sekwencyjny (układ 1.)
 
