@@ -27,7 +27,6 @@ function block diagram - schemat bloków funkcyjnych
 * RS & SR
 * czasówki
 * liczniki
-* move & jump
 
 ## IL
 instruction list - lista instrukcji
