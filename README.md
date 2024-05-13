@@ -21,6 +21,12 @@ structured control language - strukturalny język sterowania
 
 ## FBD
 function block diagram - schemat bloków funkcyjnych
+* podstawowe funkcje
+* przykłady
+* RS & SR
+* czasówki
+* liczniki
+* move & jump
 
 ## IL
 instruction list - lista instrukcji
