@@ -8,7 +8,6 @@ ladder diagram - schemat drabinkowy (język drabinkowy)
 * RS & SR
 * czasówki
 * liczniki
-* move
 * jeden układ sekwencyjny (układ 1.)
 
 ## SCL
