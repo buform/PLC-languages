@@ -1,6 +1,11 @@
 # PLC-languages
 Języki programowania sterowników PLC na podstawie normy IEC 61131-3. Dodatkowo znajduje się GRAFCET. Natomiast w przypadku języka ST jest przedstawiony wariant SFC (dla sterowników firmy Siemens).
 
+SFC oraz GRAFCET zostały wykonane w programie FluidSIM, w wyniku czego oznaczenia przy tranzycjach mogą różnić się od tych stosowanych na codzień:
+* suma logiczna jest oznaczona jako **+**, a powinna być **∪**,
+* iloczyn logiczny jest oznaczony jako ** * **, a powinno być **∩**.
+Obecnie nie jest planowane poprawa oznaczeń (ale nie jest wykluczona kompletnie), ponieważ ma to charakter czysto wizualny.
+
 ## LD
 ladder diagram - schemat drabinkowy (język drabinkowy)
 * podstawowe funkcje
