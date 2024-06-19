@@ -5,7 +5,7 @@ SFC oraz GRAFCET zostały wykonane w programie FluidSIM, w wyniku czego oznaczen
 * suma logiczna jest oznaczona jako **+**, a powinna być **∪**,
 * iloczyn logiczny jest oznaczony jako *, a powinno być **∩**.
 
-Obecnie nie jest planowana poprawa oznaczeń (ale nie jest wykluczona kompletnie), ponieważ ma to charakter czysto wizualny.
+Obecnie nie jest planowana poprawa oznaczeń (ale nie jest kompletnie wykluczona), ponieważ ma to charakter czysto wizualny.
 
 ## LD
 ladder diagram - schemat drabinkowy (język drabinkowy)
