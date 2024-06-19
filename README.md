@@ -41,7 +41,7 @@ instruction list - lista instrukcji
 ## SFC
 sequential function chart - sekwencyjny wykres funkcjonalny (język sekwencyjny)
 * podstawowe funkcje
-* przykłady
+* elementy sterowań
 
 ## GRAFCET
 język graficzny (algorytm)
