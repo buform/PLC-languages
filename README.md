@@ -14,7 +14,7 @@ ladder diagram - schemat drabinkowy (język drabinkowy)
 * RS & SR
 * czasówki
 * liczniki
-* jeden układ sekwencyjny (układ 1.)
+* dwa układy sekwencyjne
 
 ## SCL
 structured control language - strukturalny język sterowania
