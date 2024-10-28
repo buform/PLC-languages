@@ -1,6 +1,9 @@
 # PLC-languages
 Języki programowania sterowników PLC na podstawie normy IEC 61131-3. Dodatkowo znajduje się GRAFCET. Natomiast w przypadku języka ST jest przedstawiony wariant SCL (dla sterowników firmy Siemens).
 
+Kod (programy w języku LD, SCL, FBD) są napisane w programie TIA Portal w wersji V16 i V15, na urządzeniu CPU 1215 DC/DC/DC 6ES7 215-1AG40-0XB0 4.2.
+Programy w języku IL są jako plik tekstowy, GRAFCET w programie FluidSIM 4.2 Pneumatic. Natomiast SFC jest tylko jako plik graficzny.
+
 SFC oraz GRAFCET zostały wykonane w programie FluidSIM, w wyniku czego oznaczenia przy tranzycjach mogą różnić się od tych stosowanych na co dzień:
 * suma logiczna jest oznaczona jako **+**, a powinna być **∪**,
 * iloczyn logiczny jest oznaczony jako *, a powinno być **∩**.
