@@ -53,3 +53,6 @@ język graficzny (algorytm)
 * podstawowe funkcje
 * przykłady
 * elementy sterowań
+
+## ELM 06
+* czerwiec 2024 SCL/SFC/
