@@ -1,1 +1,6 @@
-
+LD
+SCL          DONE
+FBD
+SFC
+IL
+GRAFCET
