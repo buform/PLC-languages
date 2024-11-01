@@ -55,5 +55,8 @@ język graficzny (algorytm)
 * elementy sterowań
 
 ## ELM 06
-* czerwiec 2024 SCL/SFC/
 * czerwiec 2021 LD/SCL/
+* styczeń 2022 LD/SCL/
+* styczeń 2023 LD/SCL/
+* czerwiec 2024 SCL/SFC/
+
