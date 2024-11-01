@@ -56,3 +56,4 @@ język graficzny (algorytm)
 
 ## ELM 06
 * czerwiec 2024 SCL/SFC/
+* czerwiec 2021 LD/SCL/
