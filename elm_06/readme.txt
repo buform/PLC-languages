@@ -5,4 +5,4 @@ Egzaminy:
 * czerwiec 2021,
 * styczeń 2022,
 * styczeń 2023,
-są niemal identyczne, cyklogramy są takie same.
+są niemal identyczne, cyklogramy również.
