@@ -53,11 +53,3 @@ język graficzny (algorytm)
 * podstawowe funkcje
 * przykłady
 * elementy sterowań
-
-## ELM.06
-* czerwiec 2021
-* styczeń 2022
-* styczeń 2023
-* czerwiec 2023
-* styczeń 2024
-* czerwiec 2024
