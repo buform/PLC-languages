@@ -4,7 +4,6 @@ Języki programowania sterowników PLC na podstawie normy IEC 61131-3. Dodatkowo
 SFC oraz GRAFCET zostały wykonane w programie FluidSIM, w wyniku czego oznaczenia przy tranzycjach mogą różnić się od tych stosowanych na co dzień:
 * suma logiczna jest oznaczona jako **+**, a powinna być **∪**,
 * iloczyn logiczny jest oznaczony jako *, a powinno być **∩**.
-
 Obecnie nie jest planowana poprawa oznaczeń, ponieważ ma to charakter czysto wizualny.
 
 ## LD
