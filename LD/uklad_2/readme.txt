@@ -1,1 +1,0 @@
-uklad zawiera zabezpieczenia elektrozaworow
