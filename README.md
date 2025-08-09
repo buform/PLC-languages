@@ -8,7 +8,7 @@ SFC oraz GRAFCET zostały wykonane w programie FluidSIM, w wyniku czego oznaczen
 Obecnie nie jest planowana poprawa oznaczeń, ponieważ ma to charakter czysto wizualny.
 
 ## LD
-ladder diagram - schemat drabinkowy (język drabinkowy)
+ladder diagram / relay ladder language - schemat drabinkowy / język drabinkowy
 * podstawowe funkcje
 * przykłady
 * RS & SR
@@ -38,7 +38,7 @@ instruction list - lista instrukcji
 * czasówki
 
 ## SFC
-sequential function chart - sekwencyjny wykres funkcjonalny (język sekwencyjny)
+sequential function chart - sekwencyjny wykres funkcjonalny / język sekwencyjny / sekwencyjna karta funkcji
 * podstawowe funkcje
 * elementy sterowań
 
